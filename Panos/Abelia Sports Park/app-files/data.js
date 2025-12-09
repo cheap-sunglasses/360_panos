@@ -1,7 +1,7 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-abelia-sports-park-for-github",
+      "id": "0-abelia-sports-park",
       "name": "Abelia Sports Park",
       "levels": [
         {
@@ -28,8 +28,8 @@ var APP_DATA = {
       ],
       "faceSize": 3000,
       "initialViewParameters": {
-        "yaw": 0.12992572346223596,
-        "pitch": 0.5003370207295781,
+        "yaw": -2.113165800937912,
+        "pitch": 0.44236271409815586,
         "fov": 1.3926760049349705
       },
       "linkHotspots": [],

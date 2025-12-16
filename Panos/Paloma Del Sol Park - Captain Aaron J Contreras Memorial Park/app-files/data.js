@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-paloma-del-sol-park",
-      "name": "Paloma Del Sol Park",
+      "id": "0-captain-aaron-j-contreras-memorial-park",
+      "name": "Captain Aaron J Contreras Memorial Park",
       "levels": [
         {
           "tileSize": 256,
@@ -28,8 +28,8 @@ var APP_DATA = {
       ],
       "faceSize": 3750,
       "initialViewParameters": {
-        "yaw": -0.8818966346361137,
-        "pitch": 0.5756298735568048,
+        "yaw": 2.263568045810448,
+        "pitch": 0.5197580288495516,
         "fov": 1.3926760049349705
       },
       "linkHotspots": [],

@@ -1,7 +1,7 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-Garnet-peak",
+      "id": "0-garnet-peak",
       "name": "Garnet Peak",
       "levels": [
         {
@@ -24,8 +24,8 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -2.636935374772886,
-        "pitch": 0.45002289076035495,
+        "yaw": -0.07211151736513166,
+        "pitch": 0.589262195259618,
         "fov": 1.3926760049349705
       },
       "linkHotspots": [],

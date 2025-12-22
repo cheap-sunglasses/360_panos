@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-garnett-peak",
-      "name": "Garnett Peak",
+      "id": "0-Garnet-peak",
+      "name": "Garnet Peak",
       "levels": [
         {
           "tileSize": 256,

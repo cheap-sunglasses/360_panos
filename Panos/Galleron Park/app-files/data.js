@@ -26,10 +26,10 @@ var APP_DATA = {
           "size": 4096
         }
       ],
-      "faceSize": 3250,
+      "faceSize": 4096,
       "initialViewParameters": {
-        "yaw": -1.4417921281968642,
-        "pitch": 0.3067224341860033,
+        "yaw": 0.18529278387049608,
+        "pitch": 0.4340108924207122,
         "fov": 1.3926760049349705
       },
       "linkHotspots": [],

@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-pechanga-golf-course-photosphere",
-      "name": "Pechanga Golf Course Photosphere",
+      "id": "0-pechanga-golf-course",
+      "name": "Pechanga Golf Course",
       "levels": [
         {
           "tileSize": 256,
@@ -26,10 +26,10 @@ var APP_DATA = {
           "size": 4096
         }
       ],
-      "faceSize": 3500,
+      "faceSize": 4000,
       "initialViewParameters": {
-        "yaw": -0.6625741718313449,
-        "pitch": 0.507704186015058,
+        "yaw": -0.5123713487164938,
+        "pitch": 0.45500891111852937,
         "fov": 1.3926760049349705
       },
       "linkHotspots": [],
